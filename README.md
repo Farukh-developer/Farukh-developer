@@ -23,8 +23,6 @@ I’m focusing on improving my skills in:
 - JavaScript frameworks like React for frontend development
 
 ### 📫 Get in Touch
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-username)
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 - **Email**: your-email@example.com
 
 ### 🎉 Fun Fact
