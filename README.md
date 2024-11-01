@@ -15,7 +15,8 @@ Here are some of the projects I’ve worked on:
 - **[Project Name 3](https://github.com/your-github-username/project3)**: A brief description of the project and its purpose.
 
 ### 📈 GitHub Stats
-![Farukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Farukh's GitHub Stats](https://github-readme-stats.vercel.app/api?usernameFarukh-developer
+=&show_icons=true&theme=tokyonight)
 
 ### 🌱 I’m Currently Learning
 I’m focusing on improving my skills in:
