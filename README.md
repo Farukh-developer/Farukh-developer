@@ -10,12 +10,12 @@ I am an 18-year-old aspiring programmer from Uzbekistan, currently studying **Ba
 
 ### 🚀 Projects
 Here are some of the projects I’ve worked on:
-- **[Project Name 1](https://github.com/your-github-username/project1)**: A brief description of the project and its purpose.
-- **[Project Name 2](https://github.com/your-github-username/project2)**: A brief description of the project and its purpose.
-- **[Project Name 3](https://github.com/your-github-username/project3)**: A brief description of the project and its purpose.
+- **[Project Name 1](https://github.com/Farukh-developer/project1)**: A brief description of the project and its purpose.
+- **[Project Name 2](https://github.com/Farukh-developer/project2)**: A brief description of the project and its purpose.
+- **[Project Name 3](https://github.com/Farukh-developer/project3)**: A brief description of the project and its purpose.
 
 ### 📈 GitHub Stats
-![Farukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farukh-developer_icons=true&theme=tokyonight)
+![Farukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farukh-developer&show_icons=true&theme=tokyonight)
 
 ### 🌱 I’m Currently Learning
 I’m focusing on improving my skills in:
