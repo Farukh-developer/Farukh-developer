@@ -1,35 +1,35 @@
-# 👋 Hello, I'm Farukh Tukhtamishev!
+# 👋 Hi, I'm Farukh Tukhtamishev!
 
-### 🌱 I'm a passionate programmer from Uzbekistan!
-- 🌟 Currently studying **Backend Development** at Youngsan University, South Korea.
-- 💻 I have experience in building websites and am actively learning about different programming languages and frameworks.
+### 🌍 About Me
+I am an 18-year-old aspiring programmer from Uzbekistan, currently studying **Backend Development** at Youngsan University in South Korea. I have a passion for coding and a strong determination to excel in the tech industry.
 
-### 📈 My GitHub Stats
-![Farukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+### 📚 Skills
+- **Languages**: Python, JavaScript, HTML5, CSS3
+- **Frameworks**: Django, Node.js, React
+- **Tools**: Git, GitHub, Visual Studio Code
 
-### 🚀 Languages and Tools
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+### 🚀 Projects
+Here are some of the projects I’ve worked on:
+- **[Project Name 1](https://github.com/your-github-username/project1)**: A brief description of the project and its purpose.
+- **[Project Name 2](https://github.com/your-github-username/project2)**: A brief description of the project and its purpose.
+- **[Project Name 3](https://github.com/your-github-username/project3)**: A brief description of the project and its purpose.
 
-### 🛠️ Projects
-- [Project 1](https://github.com/your-github-username/project1): A brief description of what this project does.
-- [Project 2](https://github.com/your-github-username/project2): A brief description of what this project does.
-- [Project 3](https://github.com/your-github-username/project3): A brief description of what this project does.
+### 📈 GitHub Stats
+![Farukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
 
-### 📫 Connect with Me
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-username)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- Email: your-email@example.com
+### 🌱 I’m Currently Learning
+I’m focusing on improving my skills in:
+- Advanced Python and Django for backend development
+- JavaScript frameworks like React for frontend development
 
-### 📝 Blog Posts
-- [How I learned Backend Development](https://medium.com/@your-email/how-i-learned-backend-development)
-- [My Journey as a Programmer](https://medium.com/@your-email/my-journey-as-a-programmer)
+### 📫 Get in Touch
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-username)
+- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Email**: your-email@example.com
 
 ### 🎉 Fun Fact
-I enjoy cycling and exploring new places in my free time!
+In my spare time, I enjoy cycling and exploring new places. I believe that a healthy body leads to a healthy mind!
+
+---
+
+Thank you for visiting my profile! 🚀
