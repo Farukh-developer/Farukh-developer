@@ -16,9 +16,7 @@ I’m focusing on improving my skills in:
 - JavaScript frameworks like React for frontend development
 
 ### 📫 Get in Touch
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-username)
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- **Email**: your-email@example.com
+- **Email**: faruxtuxtamishev101@gmail.com
 
 ### 🎉 Fun Fact
 In my spare time, I enjoy cycling and exploring new places. I believe that a healthy body leads to a healthy mind!
