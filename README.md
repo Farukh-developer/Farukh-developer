@@ -1,26 +1,44 @@
-# 👋 Hi, I'm Farukh Tukhtamishev!
+<h1 align="center">Salom! 👋 Men Farukh-developer</h1>
 
-### 🌍 About Me
-I am an 18-year-old aspiring programmer from Uzbekistan, currently studying **Backend Development** at Youngsan University in South Korea. I have a passion for coding and a strong determination to excel in the tech industry.
-
-### 📚 Skills
-- **Languages**: Python, JavaScript, HTML5, CSS3
-- **Frameworks**: Django, Node.js, React
-- **Tools**: Git, GitHub, Visual Studio Code
-
-
-
-### 🌱 I’m Currently Learning
-I’m focusing on improving my skills in:
-- Advanced Python and Django for backend development
-- JavaScript frameworks like React for frontend development
-
-### 📫 Get in Touch
-- **Email**: faruxtuxtamishev101@gmail.com
-
-### 🎉 Fun Fact
-In my spare time, I enjoy cycling and exploring new places. I believe that a healthy body leads to a healthy mind!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=36BCF7&center=true&lines=Business+Developer;Web+Developer;Always+Learning+%F0%9F%93%9A" alt="Typing SVG">
+</p>
 
 ---
 
-Thank you for visiting my profile! 🚀
+### 🧑‍💻 Men haqimda:
+- 🎯 Maqsadim: Tajribali va professional **Business Developer** bo'lish.
+- 📖 Hozirda: **Biznes menejment** sohasida o'z bilimlarimni rivojlantiryapman.
+- 🌐 Men biladigan texnologiyalar:
+  - HTML, CSS, JavaScript
+  - Backend asoslari (Node.js, Express)
+  - Biznes tahlil qilish vositalari.
+
+---
+
+### 🚀 Texnologiyalar va Vositalar:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?&style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Statistika:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Farukh-developer&show_icons=true&theme=radical" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Farukh-developer&theme=radical" alt="Streak Stats" width="49%">
+</p>
+
+---
+
+### 🌐 Mening Ijtimoiy Tarmoqlarim:
+- 🔗 [LinkedIn](https://linkedin.com/in/farukh-developer)
+- 🐦 [Twitter](https://twitter.com/farukh-developer)
+
+---
+
+<p align="center">🌟 Agar mening loyihalarim sizga yoqsa, <strong>Star</strong> bosishni unutmang! 🌟</p>
