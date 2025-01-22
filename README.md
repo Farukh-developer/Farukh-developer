@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Statistikasi:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farukh-developer&show_icons=true&theme=vue-dark" alt="GitHub Stats" width="48%">
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Farukh-developer&theme=vue-dark&hide_border=true" alt="Streak Stats" width="48%">
 </p>
 
