@@ -1,35 +1,35 @@
-# 👋 Salom, men Farukh-developer!
+# 👋 Hello, I'm Farukh-developer!
 
-### 💻 Haqimda
-- 🔭 Hozirda o‘rganayotgan soha: Backend Development va Biznes
-- 🌱 Yangi texnologiyalarni o‘rganishni yoqtiraman
-- 💡 Maqsadim: Muvaffaqiyatli dasturchi va tajribali biznesmen bo‘lish
-- 📫 Menga bog‘laning: [farukhdeveloper@gmail.com](mailto:farukhdeveloper@gmail.com)
-
----
-
-## 📊 GitHub Statistikasi
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Farukh-developer&theme=vue-dark&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farukh-developer&show_icons=true&theme=vue-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farukh-developer&layout=compact&theme=vue-dark&hide_border=true)
+### 💻 About Me
+- 🔭 Currently learning: Backend Development and Business  
+- 🌱 I love learning new technologies  
+- 💡 My goal: To become a successful developer and experienced businessman  
+- 📫 Contact me: [farukhdeveloper@gmail.com](mailto:farukhdeveloper@gmail.com)  
 
 ---
 
-## 🚀 Texnologiyalar va Qobiliyatlarim
-- Backend: `Node.js`, `Express.js`, `Django`
-- Frontend: `HTML`, `CSS`, `JavaScript`
-- Baza ma'lumotlari: `MySQL`, `PostgreSQL`, `MongoDB`
-- Versiya boshqaruvi: `Git`, `GitHub`
+## 📊 GitHub Stats  
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Farukh-developer&theme=vue-dark&hide_border=true)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farukh-developer&show_icons=true&theme=vue-dark&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farukh-developer&layout=compact&theme=vue-dark&hide_border=true)  
 
 ---
 
-### 🔗 Bog‘lanish
-- [🌐 Portfolio](#) *(hali tayyor emas)*
-- [🐦 Twitter](https://twitter.com) *(misol uchun qo‘shib qo‘yildi)*
+## 🚀 Technologies & Skills  
+- Backend: `Node.js`, `Express.js`, `Django`  
+- Frontend: `HTML`, `CSS`, `JavaScript`  
+- Databases: `MySQL`, `PostgreSQL`, `MongoDB`  
+- Version Control: `Git`, `GitHub`  
 
 ---
 
-Rahmat! 😊
+### 🔗 Connect with Me  
+- [🌐 Portfolio](#) *(not ready yet)*  
+- [🐦 Twitter](https://twitter.com) *(added as an example)*  
+
+---
+
+Thanks! 😊
